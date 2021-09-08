@@ -1,4 +1,4 @@
-# StackEdit 推荐 markdowm 的编写软件
+# push 提交时候使用token代替password
 
 npm 发布上架下架删除操作
 npm who am i
